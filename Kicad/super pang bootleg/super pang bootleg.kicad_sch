@@ -1,0 +1,709 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "c12c1911-c9ba-4dfc-957d-8a83ba219507")
+	(paper "A4")
+	(title_block
+		(title "PEGASO-OI Super Pang Bootleg")
+		(company "HANDAX LABS")
+		(comment 1 "COPY OF PLAYMARK'S SUPER PANG BOOTLEG")
+	)
+	(lib_symbols)
+	(sheet
+		(at 29.21 35.56)
+		(size 19.05 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "001d4c8e-3d8e-4bf7-a237-ccf41eeeaf4e")
+		(property "Sheetname" "JAMMA"
+			(at 29.21 34.8484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "jamma.kicad_sch"
+			(at 29.21 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 34.29)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "28370634-fb80-47c5-a51d-97b20fe57a6f")
+		(property "Sheetname" "Controls"
+			(at 175.26 33.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "controls.kicad_sch"
+			(at 175.26 38.6846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.086 137.922)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "475f0b02-67a3-4c5a-811c-fe7bb53b10b4")
+		(property "Sheetname" "Palette RAM"
+			(at 53.086 137.2104 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "palette_ram.kicad_sch"
+			(at 53.086 142.3166 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.145 105.41)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "47cd18f4-9f25-42e8-86f9-1ecf4bfb42bd")
+		(property "Sheetname" "Clock & Reset"
+			(at 144.145 104.6984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "clock_reset.kicad_sch"
+			(at 144.145 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 125.73 52.07)
+		(size 12.7 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4c188f3e-61f6-4622-bd9e-b7aa66eac57a")
+		(property "Sheetname" "Sound CPU"
+			(at 125.73 51.3584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sound_cpu.kicad_sch"
+			(at 125.73 64.7196 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "20")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 39.624 75.438)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "598a70dd-a97a-4b0b-8f05-04c5c3628fb2")
+		(property "Sheetname" "Video Logic"
+			(at 39.624 74.7264 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "video_logic.kicad_sch"
+			(at 39.624 79.8326 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 39.624 157.226)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5e7789c4-5efc-4fe8-8912-482a0da90ed4")
+		(property "Sheetname" "Sprite Engine - RGB Output"
+			(at 39.624 156.5144 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sprite_engine.kicad_sch"
+			(at 39.624 161.6206 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "32")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.96 109.22)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "659afc5d-3f9b-44b9-acb1-921727bbbab1")
+		(property "Sheetname" "UNKNOWN"
+			(at 60.96 108.5084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 60.96 113.6146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "100")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 87.63 82.55)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "83ffb115-0444-4e9d-9556-592594f5caf7")
+		(property "Sheetname" "Sound Logic"
+			(at 87.63 81.8384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sound_logic.kicad_sch"
+			(at 87.63 86.9446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "21")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 116.332 136.144)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ac4aa20c-fd29-456c-b852-095c2107fa2f")
+		(property "Sheetname" "TIle Generator"
+			(at 116.332 135.4324 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "tile_generator.kicad_sch"
+			(at 116.332 140.5386 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "31")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 33.02)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bc77dc38-f3e2-4d04-a58e-1cec4057d407")
+		(property "Sheetname" "Main Memory"
+			(at 101.6 32.3084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "main_memory.kicad_sch"
+			(at 101.6 37.4146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 80.01)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "be3a0f85-ee72-4da9-88af-396d6138d7ba")
+		(property "Sheetname" "Main Decode"
+			(at 160.02 79.2984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "main_decode.kicad_sch"
+			(at 160.02 84.4046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 191.77 109.855)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e23d7c41-fb6c-40eb-ba9d-6cb7998491b4")
+		(property "Sheetname" "Sound Memory"
+			(at 191.77 109.1434 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sound_memory.kicad_sch"
+			(at 191.77 114.2496 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "22")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 105.41)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e817c4d3-da50-4a7d-90ad-cf84965df0d4")
+		(property "Sheetname" "Sound Amplifier"
+			(at 114.3 104.6984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sound_amp.kicad_sch"
+			(at 114.3 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "23")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 72.39 45.72)
+		(size 17.78 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fc2d3841-abd3-451a-8b6c-3845cf09f768")
+		(property "Sheetname" "CPU"
+			(at 72.39 45.0084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cpu.kicad_sch"
+			(at 72.39 61.5446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "super pang bootleg"
+				(path "/c12c1911-c9ba-4dfc-957d-8a83ba219507"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

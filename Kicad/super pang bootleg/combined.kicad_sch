@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "741ce0e2-b513-4f4f-8106-bd1b4ef805ea")
+	(paper "A0")
+	(title_block
+		(title "PEGASO-OI Super Pang Bootleg")
+		(company "SGOU")
+	)
+	(lib_symbols)
+)

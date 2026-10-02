@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "b9b4137b-21cf-479a-a3a4-811c3b9a2962")
+	(paper "A4")
+	(title_block
+		(company "HANDAX LABS")
+		(comment 1 "COPY OF PLAYMARK'S SUPER PANG BOOTLEG")
+	)
+	(lib_symbols)
+)
